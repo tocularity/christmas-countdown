@@ -2,7 +2,7 @@
 
 Built with NextJS and Tailwind, get in the Christmas spirit with this countdown to christmas day. Switch backgrounds and save your favourite to local storage to get it on every visit. View the image credits and manage your saved background in the dropdown menu.
 
-[Visit the live version](https://xmas-countdown.pages.dev)
+[Visit the live version](https://christmas-count.vercel.app)
 
 ## Get started
 
