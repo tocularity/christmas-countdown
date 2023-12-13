@@ -231,7 +231,7 @@ export default function Index() {
                 </DialogTrigger>
 
                 <DropdownMenuSeparator />
-                <Link href="https://github.com/tocularity" target="_blank" className="w-full">
+                <Link href="https://github.com/tocularity/christmas-countdown" target="_blank" className="w-full">
                   <DropdownMenuItem className="cursor-pointer items-center gap-1.5">
                     By Tocularity on
                     <FaGithub />
